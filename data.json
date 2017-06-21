@@ -1,0 +1,28 @@
+{
+    "report":[
+        { "term": "", "term_in_short":"WBC",    "result":"", "unit":"10^9/L",   "rv_min":"3.5",     "rv_max":"9.5", "intro":"", "project":"白细胞" },
+        { "term": "", "term_in_short":"NEU%",   "result":"", "unit":"%",        "rv_min":"40",      "rv_max":"75",  "intro":"", "project":"中性粒细胞比率" },
+        { "term": "", "term_in_short":"LYM%",   "result":"", "unit":"%",        "rv_min":"20",      "rv_max":"",    "intro":"", "project":"淋巴细胞比率" },
+        { "term": "", "term_in_short":"MON%",   "result":"", "unit":"%",        "rv_min":"3",       "rv_max":"",    "intro":"", "project":"单核细胞比率" },
+        { "term": "", "term_in_short":"EOS%",   "result":"", "unit":"%",        "rv_min":"0.4",     "rv_max":"",    "intro":"", "project":"嗜酸性粒细胞比率" },
+        { "term": "", "term_in_short":"BAS%",   "result":"", "unit":"%",        "rv_min":"0",       "rv_max":"",    "intro":"", "project":"嗜碱性粒细胞比率" },
+        { "term": "", "term_in_short":"NEU#",   "result":"", "unit":"10^9/L",   "rv_min":"1.8",     "rv_max":"",    "intro":"", "project":"中性粒细胞计数"},
+        { "term": "", "term_in_short":"LYM#",   "result":"", "unit":"10^9/L",   "rv_min":"1.1",     "rv_max":"",    "intro":"", "project":"淋巴细胞计数"},
+        { "term": "", "term_in_short":"MON#",   "result":"", "unit":"10^9/L",   "rv_min":"0.1",     "rv_max":"",    "intro":"", "project":"单核细胞计数" },
+        { "term": "", "term_in_short":"EOS#",   "result":"", "unit":"10^9/L",   "rv_min":"0.02",    "rv_max":"",    "intro":"", "project":"嗜酸性粒细胞计数"},
+        { "term": "", "term_in_short":"BAS#",   "result":"", "unit":"10^9/L",   "rv_min":"0",       "rv_max":"",    "intro":"", "project":"嗜碱性粒细胞计数" },
+        { "term": "", "term_in_short":"HGB",    "result":"", "unit":"g/L",      "rv_min":"115",     "rv_max":"",    "intro":"", "project":"血红蛋白"         },
+        { "term": "", "term_in_short":"RBC",    "result":"", "unit":"10^12/L",  "rv_min":"3.8",     "rv_max":"",    "intro":"", "project":"红细胞"          },
+        { "term": "", "term_in_short":"HCT",    "result":"", "unit":"%",        "rv_min":"35",      "rv_max":"",    "intro":"", "project":"红细胞积压"      },
+        { "term": "", "term_in_short":"MCV",    "result":"", "unit":"fL",       "rv_min":"82",      "rv_max":"",    "intro":"", "project":"平均红细胞体积"  },
+        { "term": "", "term_in_short":"MCH",    "result":"", "unit":"pg",       "rv_min":"27",      "rv_max":"",    "intro":"", "project":"平均血红蛋白质量" },
+        { "term": "", "term_in_short":"MCHC",   "result":"", "unit":"g/L",      "rv_min":"316",     "rv_max":"",    "intro":"", "project":"平均血红蛋白浓度" },
+        { "term": "", "term_in_short":"PCT",    "result":"", "unit":"%",        "rv_min":"0.114",   "rv_max":"",    "intro":"", "project":"血小板积压"    },
+        { "term": "", "term_in_short":"MPV",    "result":"", "unit":"fL",       "rv_min":"6",       "rv_max":"",    "intro":"", "project":"平均血小板体积"    },
+        { "term": "", "term_in_short":"PLT",    "result":"", "unit":"10^9/L",   "rv_min":"125",     "rv_max":"",    "intro":"", "project":"血小板计数"        },
+        { "term": "", "term_in_short":"PDW",    "result":"", "unit":"fL",       "rv_min":"9",       "rv_max":"",    "intro":"", "project":"血小板平均宽度"  },
+        { "term": "", "term_in_short":"RDW-CV", "result":"", "unit":"%",        "rv_min":"12",      "rv_max":"",    "intro":"", "project":"红细胞分布宽度%" },
+        { "term": "", "term_in_short":"RDW-SD", "result":"", "unit":"fL",       "rv_min":"42",      "rv_max":"",    "intro":"", "project":"红细胞分布宽度#" },
+        { "term": "", "term_in_short":"P-LCR",  "result":"", "unit":"",         "rv_min":"19.6",    "rv_max":"",    "intro":"", "project":"大型血小板比率"  }
+    ]
+}
